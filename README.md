@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/users/pjroggy"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pierre-jean-roggy-dev/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pierre-jean-roggy-dev/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools 🛠:</h3>
