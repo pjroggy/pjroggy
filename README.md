@@ -1,6 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjroggy&label=Profile%20views&color=0e75b6&style=flat" alt="pjroggy" /> </p>
-
-<h1 align="center">Hi 👋, I'm Pierre-Jean Roggy</h1>
+![github-header-image](https://github.com/pjroggy/pjroggy/assets/105724385/7c060583-2eb3-4d2a-b929-9f9aecafc698)
 
 <p style="margin: 15px;" align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Developper+full+stack%2C+love+java;i'm+sharing+and+coding+in+good+mood" alt="Typing SVG" /></a>
@@ -53,3 +51,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
+
+<div align="center">
+<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
