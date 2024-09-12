@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/pierre-jean-roggy-dev/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pjroggy)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pjroggy&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools 🛠:</h3>
 <h3 align="center">Basics</h3>
