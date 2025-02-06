@@ -11,8 +11,9 @@
 ## 📫 Contact & Availability
 - 💼 Open to job opportunities
 - 🤝 Interested in collaborative projects
-- 📧 Reach me at **pierrejeanroggy@gmail.com**,<a href="https://discord.com/users/pjroggy"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/pierre-jean-roggy-dev/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📧 Reach me at **pierrejeanroggy@gmail.com**,
+- <a href="https://discord.com/users/pjroggy"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/pierre-jean-roggy-dev/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ## 🎯 Current Focus
