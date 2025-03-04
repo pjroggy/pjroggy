@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/pjroggy/pjroggy/assets/105724385/7c060583-2eb3-4d2a-b929-9f9aecafc698)
 
 <p style="margin: 15px;" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Developper+full+stack%2C+love+java;i'm+sharing+and+coding+in+good+mood" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Full+stack+Developer%2C+love+java;i'm+sharing+and+coding+in+good+mood" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">A passionate developer from France ready for learning and coding new projects</h3>
@@ -18,8 +18,8 @@
 
 ## 🎯 Current Focus
 - deep diving with the whale Docker and CI/CD
-- Applications development with GraphQL et Apollo
-- Perfectionnement in TypeScript et React
+- Applications development with GraphQL and Apollo
+- Perfectionnement in TypeScript and React
 
 ## 📚 Formations et Certifications
 - Concepteur Développeur d'Application - Wild code school - 2024/2025
